@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-05-20 10:00:00",
+    "event": "FAILED_LOGIN",
+    "user": "john.doe"
+  },
+  {
+    "timestamp": "2026-05-20 11:00:00",
+    "event": "PASSWORD_RESET",
+    "user": "alice"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "hr_policy.pdf": ["HR", "Admin"],
+  "finance_q1.csv": ["Finance", "Admin"],
+  "security_logs.json": ["Security", "Admin"]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "username": "alice",
+    "role": "HR"
+  },
+  {
+    "username": "bob",
+    "role": "Finance"
+  },
+  {
+    "username": "eve",
+    "role": "Security"
+  }
+]
